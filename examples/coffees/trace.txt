@@ -1,0 +1,34 @@
+2023-11-06T16:54:37.252+0100 [INFO]  Terraform version: 1.6.2
+2023-11-06T16:54:37.252+0100 [INFO]  Go runtime version: go1.21.1
+2023-11-06T16:54:37.252+0100 [INFO]  CLI args: []string{"C:\\terraform\\terraform.exe", "plan"}
+2023-11-06T16:54:37.262+0100 [INFO]  Loading CLI configuration from C:\Users\ruizal\AppData\Roaming\terraform.rc
+2023-11-06T16:54:37.262+0100 [INFO]  Loading CLI configuration from C:\Users\ruizal\AppData\Roaming\terraform.d\credentials.tfrc.json
+2023-11-06T16:54:37.262+0100 [INFO]  CLI command args: []string{"plan"}
+2023-11-06T16:54:37.268+0100 [INFO]  backend/local: starting Plan operation
+2023-11-06T16:54:39.548+0100 [INFO]  provider: configuring client automatic mTLS
+2023-11-06T16:54:39.581+0100 [INFO]  provider.terraform-provider-hashicups.exe: configuring server automatic mTLS: timestamp="2023-11-06T16:54:39.579+0100"
+2023-11-06T16:54:39.620+0100 [INFO]  provider: configuring client automatic mTLS
+2023-11-06T16:54:39.647+0100 [INFO]  provider.terraform-provider-hashicups.exe: configuring server automatic mTLS: timestamp="2023-11-06T16:54:39.646+0100"
+2023-11-06T16:54:39.691+0100 [INFO]  backend/local: plan calling Plan
+2023-11-06T16:54:39.692+0100 [INFO]  provider: configuring client automatic mTLS
+2023-11-06T16:54:39.720+0100 [INFO]  provider.terraform-provider-hashicups.exe: configuring server automatic mTLS: timestamp="2023-11-06T16:54:39.719+0100"
+2023-11-06T16:54:39.738+0100 [INFO]  provider.terraform-provider-hashicups.exe: Configuring HashiCups client: @module=hashicups tf_provider_addr=hashicorp.com/edu/hashicups tf_req_id=d3a91300-f772-e127-044f-41525ab1bab2 tf_rpc=ConfigureProvider @caller=C:/Users/ruizal/Documents/Workspace/Proyectos/Terraform/terraform-provider-hashicups/internal/provider/provider.go:65 timestamp="2023-11-06T16:54:39.738+0100"
+2023-11-06T16:54:39.762+0100 [INFO]  provider.terraform-provider-hashicups.exe: Configured HashiCups client: tf_req_id=d3a91300-f772-e127-044f-41525ab1bab2 @caller=C:/Users/ruizal/Documents/Workspace/Proyectos/Terraform/terraform-provider-hashicups/internal/provider/provider.go:189 @module=hashicups hashicups_host=http://localhost:19090 hashicups_username=education success=true tf_provider_addr=hashicorp.com/edu/hashicups hashicups_password="***" tf_rpc=ConfigureProvider timestamp="2023-11-06T16:54:39.762+0100"
+2023-11-06T16:54:39.792+0100 [INFO]  backend/local: plan operation completed
+2023-11-06T16:55:44.426+0100 [INFO]  Terraform version: 1.6.2
+2023-11-06T16:55:44.428+0100 [INFO]  Go runtime version: go1.21.1
+2023-11-06T16:55:44.428+0100 [INFO]  CLI args: []string{"C:\\terraform\\terraform.exe", "plan"}
+2023-11-06T16:55:44.434+0100 [INFO]  Loading CLI configuration from C:\Users\ruizal\AppData\Roaming\terraform.rc
+2023-11-06T16:55:44.434+0100 [INFO]  Loading CLI configuration from C:\Users\ruizal\AppData\Roaming\terraform.d\credentials.tfrc.json
+2023-11-06T16:55:44.435+0100 [INFO]  CLI command args: []string{"plan"}
+2023-11-06T16:55:44.438+0100 [INFO]  backend/local: starting Plan operation
+2023-11-06T16:55:46.733+0100 [INFO]  provider: configuring client automatic mTLS
+2023-11-06T16:55:46.768+0100 [INFO]  provider.terraform-provider-hashicups.exe: configuring server automatic mTLS: timestamp="2023-11-06T16:55:46.767+0100"
+2023-11-06T16:55:46.808+0100 [INFO]  provider: configuring client automatic mTLS
+2023-11-06T16:55:46.834+0100 [INFO]  provider.terraform-provider-hashicups.exe: configuring server automatic mTLS: timestamp="2023-11-06T16:55:46.833+0100"
+2023-11-06T16:55:46.871+0100 [INFO]  backend/local: plan calling Plan
+2023-11-06T16:55:46.872+0100 [INFO]  provider: configuring client automatic mTLS
+2023-11-06T16:55:46.898+0100 [INFO]  provider.terraform-provider-hashicups.exe: configuring server automatic mTLS: timestamp="2023-11-06T16:55:46.897+0100"
+2023-11-06T16:55:46.914+0100 [INFO]  provider.terraform-provider-hashicups.exe: Configuring HashiCups client: tf_provider_addr=hashicorp.com/edu/hashicups tf_req_id=402ee5b5-c492-6a53-b793-cabf2b6e74d1 tf_rpc=ConfigureProvider @caller=C:/Users/ruizal/Documents/Workspace/Proyectos/Terraform/terraform-provider-hashicups/internal/provider/provider.go:65 @module=hashicups timestamp="2023-11-06T16:55:46.914+0100"
+2023-11-06T16:55:46.941+0100 [INFO]  provider.terraform-provider-hashicups.exe: Configured HashiCups client: hashicups_username=education success=true tf_req_id=402ee5b5-c492-6a53-b793-cabf2b6e74d1 @module=hashicups hashicups_host=http://localhost:19090 hashicups_password="***" tf_provider_addr=hashicorp.com/edu/hashicups tf_rpc=ConfigureProvider @caller=C:/Users/ruizal/Documents/Workspace/Proyectos/Terraform/terraform-provider-hashicups/internal/provider/provider.go:189 timestamp="2023-11-06T16:55:46.940+0100"
+2023-11-06T16:55:46.969+0100 [INFO]  backend/local: plan operation completed
